@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//test/BP_NN.py=utf-8
+encoding//test/CNN.py=UTF-8
+encoding//test/Mnist_test.py=UTF-8
+encoding//test/numpy_test.py=UTF-8
+encoding//test/tensorflow_method.py=UTF-8
+encoding//test/tensorflow_test.py=UTF-8
+encoding//test/test2.py=UTF-8
+encoding/fully_connected_feed.py=UTF-8
+encoding/input_data.py=UTF-8
+encoding/mnist.py=UTF-8
+encoding/mnist_deep.py=UTF-8
+encoding/mnist_softmax.py=UTF-8
+encoding/mnist_with_summaries.py=UTF-8
